@@ -4,15 +4,15 @@ Slumber Number is a sleep timer app that lets users set a countdown and receive 
 
 ## Features 
 
-*Set a timer duration
+-Set a timer duration
 *Set notification intervals
-*Start, stop, and reset the timer
-*Receive voice announcements of elapsed time
++Start, stop, and reset the timer
+-Receive voice announcements of elapsed time
 
 ## Technologies
-*React Native
+-React Native
 *Expo
-*[react-native-timer-picker](https://www.npmjs.com/package/react-native-timer-picker)
++react-native-timer-picker](https://www.npmjs.com/package/react-native-timer-picker)
 
 ## Installation
 
