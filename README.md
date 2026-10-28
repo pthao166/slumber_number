@@ -1,6 +1,6 @@
 # Slumber Number
 
-Slumber Number is a sleep timer app that lets users set a countdown and receive periodic audio notifications showing how much time has passed since the timer started or since the last alert.
+Slumber Number is a sleep timer app that lets users set a countdown and receive periodic audio notifications indicating how much time has passed since the timer started or since the last alert.
 
 ## Features
 

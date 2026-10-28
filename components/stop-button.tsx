@@ -13,8 +13,6 @@ export default function StopButton({
       onPress={() => {
         console.log("Stop Clicked.");
 
-        setStopTime(Date.now());
-
         setOptionsDisabled((prev) => ({
           ...prev,
           start: false,
